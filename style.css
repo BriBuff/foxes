@@ -1,0 +1,27 @@
+body {
+    background: black;
+    font-family: 'Indie Flower', cursive;
+    color: orange;
+    text-align: center;
+}
+
+p.intro::first-letter, p.introo::first-letter {
+    color: orange;
+    font-size: 200%;
+}
+
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: yellow;
+}
+
+a:hover {
+    color: orangered;
+}
+
+a:active {
+    color:silver;
+}
